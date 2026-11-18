@@ -1,0 +1,30 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# MLflow tracking and database
+mlruns/
+mlruns_lab02/
+mlflow.db
+*.db
+run_summary.txt
+
+# Python cache and checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.cache/
+huggingface_cache/
+
+# OS specific & Office lock files
+.DS_Store
+Thumbs.db
+~$*.docx
+~$*.doc
+/FINAL_MLOPS_LAB_RECORD_1MS25CI068.docx
+
+
+# VS Code settings
+.vscode/
