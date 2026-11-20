@@ -4,7 +4,7 @@
 |---|---|
 | **Name** | Kushal M |
 | **USN** | 1MS25CI068 |
-| **Section** | B (AI & ML) |
+| **Section** | A (AI & ML) |
 | **Course** | Skill Lab (MLOps with MLflow) `[22CI61]` |
 | **Experiment Name** | `hf-sentiment-champion-challenger` |
 | **Registered Model** | `sentiment-model` |
